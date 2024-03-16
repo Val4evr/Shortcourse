@@ -9,4 +9,6 @@ dependencies:
   - matplotlib
   - flit
   - openpyxl
+  - pip:
+    - sigfig
 prefix: /home/valeriy/anaconda3/envs/shortcourse_clean

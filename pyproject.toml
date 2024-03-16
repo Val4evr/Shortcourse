@@ -9,6 +9,14 @@ readme = "readme.md"
 license = {file = "LICENSE"}
 classifiers = ["License :: OSI Approved :: MIT License"]
 dynamic = ["version", "description"]
+dependencies = [
+"pandas",
+"scipy", 
+"matplotlib", 
+"flit", 
+"openpyxl", 
+"sigfig",
+]
 
 
 [project.urls]

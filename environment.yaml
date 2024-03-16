@@ -1,0 +1,12 @@
+name: shortcourse_clean
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - scipy
+  - pip
+  - python=3.10
+  - matplotlib
+  - flit
+  - openpyxl
+prefix: /home/valeriy/anaconda3/envs/shortcourse_clean

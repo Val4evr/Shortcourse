@@ -1,4 +1,4 @@
-name: shortcourse_clean
+name: shortcourse_conda_env
 channels:
   - defaults
 dependencies:
@@ -11,4 +11,3 @@ dependencies:
   - openpyxl
   - pip:
     - sigfig
-prefix: /home/valeriy/anaconda3/envs/shortcourse_clean

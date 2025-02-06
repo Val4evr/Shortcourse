@@ -88,15 +88,3 @@ You can now:
 - Check out the generated plots and graphs in `exam/output`
 
 **If something does not work, please post an issue.**
-
-# A bit of background
-
-In February 2023 students were asked to prepare for an upcoming statistics timed coursework exam. During the exam, students must answer the question of "Are wealthy countries healthier?" by analysing a dataset that is provided at the start. The students know the question in preparation for the exam, but the dataset is new. 
-
-It is expected that students use their pre-prepared Excel document to analyse the new dataset, and then edit similarly pre-prepared writeups to answer the question. This is a largely manual and time-consuming process. 
-
-However, the rules do not prohibit a student from writing a program that can accept any dataset, and automatically produce the analysis. That would allow the student to complete the 2-hour exam in mere minutes and to higher quality.
-
-After that realization, I wrote and tested Shortcourse in my free time over the span of two weeks. It allowed me to automate most of the exam and produce an analysis of higher quality. 
-
-My coursework produced with Shortcourse got the highest ever score in any IFP programme my school offered.
